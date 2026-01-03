@@ -148,17 +148,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Somesh Pathak**
 - GitHub: [@pathaksomesh06](https://github.com/pathaksomesh06)
 - Blog: [Intune in Real Life](https://intuneinreallife.com)
-- Microsoft MVP: Enterprise Mobility
 
 ## Acknowledgments
 
 - Microsoft Intune team for the Graph API
 - Homebrew project for package management
 - SwiftUI and Apple frameworks
-
-## Related Projects
-
-- [MISA](https://github.com/pathaksomesh06/MISA) - macOS Intune Support Assistant
-- [ABMate](https://github.com/pathaksomesh06/ABMate) - Apple Business Manager client
-- [Intune-Log-Reader](https://github.com/pathaksomesh06/Intune-Log-Reader) - Intune log analysis tool
-
