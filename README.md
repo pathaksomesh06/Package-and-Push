@@ -44,34 +44,35 @@ Download the latest `.pkg` installer from the [Releases](https://github.com/path
 
 ## Screenshots
 
-### Main Screen *Welcome screen with Microsoft Entra ID authentication*
+### Main Screen 
+Welcome screen with Microsoft Entra ID authentication*
 <img width="1069" height="864" alt="Screenshot 2026-01-03 at 01 35 59" src="https://github.com/user-attachments/assets/086da778-2200-46f7-9127-e19abf01a750" />
 
 
 ### Package Search
+Search and browse Homebrew packages with real-time filtering
 <img width="1069" height="864" alt="Screenshot 2026-01-03 at 02 00 59" src="https://github.com/user-attachments/assets/2810f3c9-c888-40bd-8201-14b8b31c996c" />
-*Search and browse Homebrew packages with real-time filtering*
 
 ### Package Details
+View package information including version, homepage, and build status
 <img width="1069" height="844" alt="Screenshot 2026-01-02 at 23 13 31" src="https://github.com/user-attachments/assets/59d5d7e8-9876-41e8-be12-2b3469376dae" />
-*View package information including version, homepage, and build status*
 
 ### App Configuration
+Configure app metadata, requirements, detection rules, and assignments
 <img width="1069" height="856" alt="Screenshot 2026-01-02 at 23 14 16" src="https://github.com/user-attachments/assets/9b63b6b9-baf8-4cf5-ac27-0e8122bbaffb" />
-*Configure app metadata, requirements, detection rules, and assignments*
 
 ### Deployment Progress
+Real-time progress tracking during package upload to Intune
 <img width="1069" height="844" alt="Screenshot 2026-01-02 at 23 15 26" src="https://github.com/user-attachments/assets/4686073e-3d99-4bb5-9303-4a54d54255c4" />
 <img width="1069" height="844" alt="Screenshot 2026-01-03 at 00 33 14" src="https://github.com/user-attachments/assets/02c06678-c7bb-493a-87d9-b8e28faf97c5" />
-*Real-time progress tracking during package upload to Intune*
 
 ### Version Update Detection
+Automatic detection of existing apps with version update confirmation
 <img width="1069" height="844" alt="Screenshot 2026-01-02 at 23 14 51" src="https://github.com/user-attachments/assets/9107ec9c-7131-4188-bae6-93441eb33cb8" />
-*Automatic detection of existing apps with version update confirmation*
 
 ### Success Screen
+Deployment completion with app details and assignment summary
 <img width="1069" height="844" alt="Screenshot 2026-01-03 at 00 02 39" src="https://github.com/user-attachments/assets/1643dc50-fdeb-4a30-84a8-9171a4f93027" />
-*Deployment completion with app details and assignment summary*
 
 ## Usage
 
