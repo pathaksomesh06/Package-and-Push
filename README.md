@@ -1,6 +1,8 @@
-# Package & Push
-
-A native macOS application for building macOS packages from Homebrew formulas and deploying them to Microsoft Intune.
+<div align="center">
+  <img src="icon.png" alt="Package & Push Icon" width="128" height="128">
+  <h1>Package & Push</h1>
+  <p>A native macOS application for building macOS packages from Homebrew formulas and deploying them to Microsoft Intune.</p>
+</div>
 
 ## Features
 
@@ -39,6 +41,36 @@ open Package&Push.xcodeproj
 ### From Package
 
 Download the latest `.pkg` installer from the [Releases](https://github.com/pathaksomesh06/Package-Push/releases) page.
+
+## Screenshots
+
+### Main Screen
+![Main Screen](screenshots/main-screen.png)
+*Welcome screen with Microsoft Entra ID authentication*
+
+### Package Search
+![Package Search](screenshots/package-search.png)
+*Search and browse Homebrew packages with real-time filtering*
+
+### Package Details
+![Package Details](screenshots/package-details.png)
+*View package information including version, homepage, and build status*
+
+### App Configuration
+![App Configuration](screenshots/app-configuration.png)
+*Configure app metadata, requirements, detection rules, and assignments*
+
+### Deployment Progress
+![Deployment Progress](screenshots/deployment-progress.png)
+*Real-time progress tracking during package upload to Intune*
+
+### Version Update Detection
+![Version Update](screenshots/version-update.png)
+*Automatic detection of existing apps with version update confirmation*
+
+### Success Screen
+![Success Screen](screenshots/success-screen.png)
+*Deployment completion with app details and assignment summary*
 
 ## Usage
 
