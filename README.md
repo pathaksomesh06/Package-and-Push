@@ -46,22 +46,18 @@ Download the latest `.pkg` installer from the [Releases](https://github.com/path
 
 ### Main Screen
 <img width="1069" height="864" alt="Screenshot 2026-01-03 at 01 35 59" src="https://github.com/user-attachments/assets/086da778-2200-46f7-9127-e19abf01a750" />
-
 *Welcome screen with Microsoft Entra ID authentication*
 
 ### Package Search
 <img width="1069" height="864" alt="Screenshot 2026-01-03 at 02 00 59" src="https://github.com/user-attachments/assets/2810f3c9-c888-40bd-8201-14b8b31c996c" />
-
 *Search and browse Homebrew packages with real-time filtering*
 
 ### Package Details
 <img width="1069" height="844" alt="Screenshot 2026-01-02 at 23 13 31" src="https://github.com/user-attachments/assets/59d5d7e8-9876-41e8-be12-2b3469376dae" />
-
 *View package information including version, homepage, and build status*
 
 ### App Configuration
 <img width="1069" height="856" alt="Screenshot 2026-01-02 at 23 14 16" src="https://github.com/user-attachments/assets/9b63b6b9-baf8-4cf5-ac27-0e8122bbaffb" />
-
 *Configure app metadata, requirements, detection rules, and assignments*
 
 ### Deployment Progress
@@ -71,12 +67,10 @@ Download the latest `.pkg` installer from the [Releases](https://github.com/path
 
 ### Version Update Detection
 <img width="1069" height="844" alt="Screenshot 2026-01-02 at 23 14 51" src="https://github.com/user-attachments/assets/9107ec9c-7131-4188-bae6-93441eb33cb8" />
-
 *Automatic detection of existing apps with version update confirmation*
 
 ### Success Screen
 <img width="1069" height="844" alt="Screenshot 2026-01-03 at 00 02 39" src="https://github.com/user-attachments/assets/1643dc50-fdeb-4a30-84a8-9171a4f93027" />
-
 *Deployment completion with app details and assignment summary*
 
 ## Usage
