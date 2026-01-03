@@ -135,11 +135,4 @@ Your Azure AD app registration needs:
 - Proper redirect URI configuration
 - Multi-tenant support (if applicable)
 
-## Next Steps
-
-1. **Test the improved upload process** with a simple Homebrew package
-2. **Monitor the logs** for the improved error messages
-3. **Verify app availability** in the Intune portal
-4. **Report any new issues** with the enhanced error handling
-
 The app should now handle uploads more reliably, especially for PKG files from Homebrew packages. 
