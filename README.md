@@ -40,7 +40,7 @@ open Package&Push.xcodeproj
 
 ### From Package
 
-Download the latest `.pkg` installer from the [Releases](https://github.com/pathaksomesh06/Package-Push/releases) page.
+Download the latest `.pkg` installer from the [Releases]((https://github.com/pathaksomesh06/Package-and-Push/releases/tag/v1.0)) page.
 
 ## Screenshots
 
