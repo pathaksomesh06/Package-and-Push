@@ -45,7 +45,7 @@ Download the latest `.pkg` installer from the [Releases](https://github.com/path
 ## Screenshots
 
 ### Main Screen 
-Welcome screen with Microsoft Entra ID authentication*
+Welcome screen with Microsoft Entra ID authentication
 <img width="1069" height="864" alt="Screenshot 2026-01-03 at 01 35 59" src="https://github.com/user-attachments/assets/086da778-2200-46f7-9127-e19abf01a750" />
 
 
